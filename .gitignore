@@ -1,0 +1,4 @@
+.env
+.venv/
+__pycache__/
+homework_david_vs_goliath.py
